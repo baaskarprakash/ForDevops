@@ -1,1 +1,3 @@
-# ForDevops
+# maven-project
+
+Simple Maven Project
